@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>robot5x5.bmp</file>
+        <file>empty.png</file>
+        <file>black_point.png</file>
+        <file>xy_description.png</file>
+    </qresource>
+</RCC>
